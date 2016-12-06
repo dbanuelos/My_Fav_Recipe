@@ -6,6 +6,7 @@
   </head>
   <body>
     <h1>Roasted Italian Meatballs</h1>
+       <p>Meatballs are my <i>favorite</i> Italian dish in the world. Follow this recipe to taste it yourself.</p>
     <ul>
       <li>1 pound ground sirloin</li>
       <li>1/2 pound ground pork</li>
